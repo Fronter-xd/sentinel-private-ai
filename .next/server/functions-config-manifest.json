@@ -1,0 +1,1 @@
+{"version":1,"functions":{"/api/chat":{"maxDuration":120},"/api/status":{},"/api/upload":{"maxDuration":60}}}

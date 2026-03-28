@@ -1,0 +1,1 @@
+{"ollama":{"connected":true,"model":"llama3","embeddingModel":"nomic-embed-text","status":"online"},"chromadb":{"connected":true,"documents":0,"chunks":0},"privacy":{"mode":"on-premise","dataLeavesServer":false,"encryption":"enabled"},"timestamp":"2026-03-28T21:56:45.144Z"}
