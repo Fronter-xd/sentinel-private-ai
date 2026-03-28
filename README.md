@@ -50,7 +50,7 @@ graph LR
 
 ```bash
 # Clone the repository
-git clone https://github.com/rousanraahat/sentinel-private-ai.git
+git clone https://github.com/Fronter-xd/sentinel-private-ai.git
 cd sentinel-private-ai
 
 # Install dependencies
